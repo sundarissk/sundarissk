@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sundarissk?tab=repositories](https://github.com/sundarissk?tab=repositories)
 
-- 💬 Ask me about **| Automation Engineer(SDET) | Selenium JAVA | TestNG | Rest Assured | Cucumber BDD | API Testing |**
+- 💬 Ask me about **| Automation Engineer(SDET) | AI-powered Cloud Testing | Selenium JAVA | TestNG | Rest Assured | Cucumber BDD | API Testing |**
 
 - 📫 How to reach me **sundariksen@gmail.com**
 
